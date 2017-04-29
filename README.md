@@ -35,7 +35,7 @@
 From the same directory as your project's package.json, install this module with the following command:
 
 ```sh
-npm install jesusprubio/pown-validator --save
+npm install jesusprubio/pown-validator#0.1.0-beta.0 --save
 ```
 
 ## Developer guide
